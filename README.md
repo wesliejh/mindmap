@@ -1,5 +1,3 @@
-Here's the README content formatted for direct pasting into a README.md file on GitHub:
-markdown
 # MindMap
 
 Welcome to MindMap! This project is designed to [insert a brief description of what your project does, e.g., "create interactive mind maps for brainstorming and visualization"]. Below are instructions to get started with cloning the repository and setting up the environment.
