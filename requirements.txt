@@ -1,0 +1,4 @@
+# Requires Python 3.8 or higher
+gradio>=4.0.0
+requests>=2.28.0
+ollama>=0.1.5
