@@ -39,7 +39,12 @@ If you use a different dependency management file (e.g., environment.yml), adjus
 conda env update --file environment.yml
 ```
 
-### 4. Run the Project
+### 4. Complete credentials.txt
+
+Make sure to enter applicable API keys, with no quotes, for OpenAI or Anthropic. You can also run this completely local by leveraging Ollama. For best results, I recommend OpenAI or Anthropic, as smaller local models have yielded unpredictable results due to issues with structured outputs.
+
+
+### 5. Run the Project
 
 ```bash
 python mindmap.py
