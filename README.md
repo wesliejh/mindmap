@@ -1,6 +1,8 @@
 # MindMap
 
-Welcome to MindMap! This project is designed to [insert a brief description of what your project does, e.g., "create interactive mind maps for brainstorming and visualization"]. Below are instructions to get started with cloning the repository and setting up the environment.
+Mindmaps are fun, beautiful, and succinct infographics that can help you remember important information with quick reference. I love 'em, and now you can envelop them in your process by taking this code and ingesting it into your pipeline. Fun way to do so, is to have this as an accompanying tool in your RAG architecture.
+
+Below are instructions to get started with cloning the repository and setting up the environment.
 
 ## Prerequisites
 
